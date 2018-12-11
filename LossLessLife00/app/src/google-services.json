@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "93000271554",
+    "firebase_url": "https://loeife00.firebaseio.com",
+    "project_id": "loeife00",
+    "storage_bucket": "loeife00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93000271554:android:55d1b88c18bb56f5",
+        "android_client_info": {
+          "package_name": "com.example.android.losslesslife00"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93000271554-h10h12b44kq69cvfir2t6svt2f08cegr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.losslesslife00",
+            "certificate_hash": "c59da89c43b1fca94e0601ce0e312a6a5838d0ca"
+          }
+        },
+        {
+          "client_id": "93000271554-dgpm9s3nlf5a6g1bf23g4ha5o7dl4oqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFRDerh7lYyyMJxhjToVUZv2RLj24-CA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93000271554-dgpm9s3nlf5a6g1bf23g4ha5o7dl4oqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

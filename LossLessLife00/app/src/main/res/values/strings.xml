@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LossLessLife0.0</string>
+    <string name="app_real_name">LossLessLife</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+
+    <string-array name="days">
+        <item>select</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
