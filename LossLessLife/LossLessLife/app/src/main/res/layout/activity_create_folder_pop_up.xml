@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.losslesslife.CreateFolderPopUp"
+    android:layout_margin="16dp"
+    android:background="@drawable/dialog_bg"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create New Folder"
+        android:id="@+id/TextView1"
+        android:textStyle="bold"
+        android:padding="10dp"/>
+
+    <ImageView
+        android:id="@+id/folderImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/newFolderName"
+        android:layout_below="@+id/TextView1"
+        android:src="@drawable/ic_folder_black_24dp"
+        android:padding="10dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/newFolderName"
+        android:layout_centerHorizontal="true"
+        android:layout_toRightOf="@+id/folderImage"
+        android:layout_below="@+id/TextView1"
+        android:padding="10dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/newFolderName"
+        android:padding="10dp"
+        android:background="#FFFFFF"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_margin="10dp"
+        android:id="@+id/add"/>
+
+</RelativeLayout>

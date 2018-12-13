@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LOSSLessLIFE</string>
+    <string-array name="context_view">
+        <item>select</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string name="message_name">Please Enter Reminder Message</string>
+    <string name="time">Enter Time</string>
+    <string name="day">Enter Day</string>
+    <string name="week">Enter week</string>
+    <string name="year">Enter year</string>
+    <string name="month">Enter month</string>
+    <string name="add_reminder">add Reminder</string>
+    <string name="floating_button">No Reminder Click Floating Button to Add Reminder</string>
+    <string name="something">You have Something to do</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LOSSLessLIFE</string>
+    <string-array name="context_view">
+        <item>select</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+
+    <string name="message_name">Por favor ingrese un mensaje recordatorio</string>
+    <string name="time">Ingrese el tiempo</string>
+    <string name="day">Entrar dia</string>
+    <string name="week">Entrar semana</string>
+    <string name="year">Entrar año</string>
+    <string name="month">Introducir mes</string>
+    <string name="add_reminder">Agregar recordatorio</string>
+    <string name="floating_button">Ningún recordatorio Haga clic en el botón flotante para agregar un recordatorio</string>
+    <string name="something">Tienes algo que hacer</string>
+
+</resources>
